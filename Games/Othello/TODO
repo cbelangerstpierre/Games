@@ -1,0 +1,12 @@
+computer:
+
+si corner:
+    prends corner
+
+si côté et (renverse une pièce adverse qui est sur le côté):
+    prends côté
+
+si coté et (donne pas de coin) et (n'est pas à coté de l'adversaire sur le coté):
+    prends coté
+sinon mets le côté en indésirable
+
